@@ -1,0 +1,21 @@
+.nav{
+  grid-area: n;
+  background-color: aqua;
+  padding: 20px;
+ }
+ .item a {
+   color:white;
+   text-decoration: none;
+ }
+ .item a .activeLink{
+    color: gold;
+ }
+ .img{
+   height:20px;
+   width: 20px;
+ }
+ .sidebar{
+   color:white;
+   font-size:25px;
+   padding:30px;
+ }

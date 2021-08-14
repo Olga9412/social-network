@@ -1,0 +1,30 @@
+.dialogs {
+    display:grid ;
+    grid-template-columns:2fr 10fr;
+    margin-top: 0px;
+    
+
+}
+.dialogsItems{
+    padding: 10px;
+    font-size: 22px;
+  
+     
+}
+
+
+.ava img {
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+   
+}
+.dialogsItems.active {
+    color:white;
+    
+}
+
+.messages {
+    padding: 10px;
+    font-size: 20px;
+}

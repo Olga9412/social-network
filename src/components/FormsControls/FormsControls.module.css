@@ -1,0 +1,25 @@
+
+/* .formControl{
+    border: 2px solid red;
+} */
+.formControl.error textarea{
+    border: 2px solid red;
+}
+.formControl.error input{
+    border: 2px solid red;
+}
+.mistake{
+    color:red;
+}
+/* .formControl .error input{
+    border: 2px solid red;
+}
+
+.formControl .error textarea{
+    border: 2px solid red;
+} */
+.formSummaryError{
+    border: 1px solid red;
+    padding: 5px;
+    color: red;
+}
