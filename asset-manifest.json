@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./https://olga9412.github.io/social-network/static/css/main.8c7965ef.chunk.css",
-    "main.js": "./https://olga9412.github.io/social-network/static/js/main.b220bba3.chunk.js",
-    "main.js.map": "./https://olga9412.github.io/social-network/static/js/main.b220bba3.chunk.js.map",
+    "main.js": "./https://olga9412.github.io/social-network/static/js/main.41e8340f.chunk.js",
+    "main.js.map": "./https://olga9412.github.io/social-network/static/js/main.41e8340f.chunk.js.map",
     "runtime-main.js": "./https://olga9412.github.io/social-network/static/js/runtime-main.995ed0eb.js",
     "runtime-main.js.map": "./https://olga9412.github.io/social-network/static/js/runtime-main.995ed0eb.js.map",
     "static/js/2.e9d93ab2.chunk.js": "./https://olga9412.github.io/social-network/static/js/2.e9d93ab2.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.995ed0eb.js",
     "static/js/2.e9d93ab2.chunk.js",
     "static/css/main.8c7965ef.chunk.css",
-    "static/js/main.b220bba3.chunk.js"
+    "static/js/main.41e8340f.chunk.js"
   ]
 }
